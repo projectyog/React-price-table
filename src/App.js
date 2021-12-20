@@ -61,7 +61,7 @@ width:100%;
 display:flex;
 justify-content:space-around;
 align-items:center;
-background-color:dodgerblue;
+background-color:blue;
 
 @media screen and (max-width: 970px){
   height:100%;
